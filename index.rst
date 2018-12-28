@@ -25,6 +25,7 @@ The projects that are currently available are:
    :caption: Contents:
 
    contributing
+   documentation
 
 
 
