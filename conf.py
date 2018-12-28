@@ -74,6 +74,8 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
+import guzzle_sphinx_theme
+html_theme_path = guzzle_sphinx_theme.html_theme_path()
 html_theme = 'guzzle_sphinx_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
